@@ -1,0 +1,10 @@
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRockPaperScissorGame.resources
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\programmin\first jorney\RockPaperScissors WindowsForm\Rock-Paper-Scissor-Game\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
